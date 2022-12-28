@@ -1,0 +1,15 @@
+E:\DOCUMENTS\IGOR\aggregates-main\Aggregates\bin\Debug\net6.0\Aggregates.exe
+E:\DOCUMENTS\IGOR\aggregates-main\Aggregates\bin\Debug\net6.0\Aggregates.deps.json
+E:\DOCUMENTS\IGOR\aggregates-main\Aggregates\bin\Debug\net6.0\Aggregates.runtimeconfig.json
+E:\DOCUMENTS\IGOR\aggregates-main\Aggregates\bin\Debug\net6.0\Aggregates.dll
+E:\DOCUMENTS\IGOR\aggregates-main\Aggregates\bin\Debug\net6.0\Aggregates.pdb
+E:\DOCUMENTS\IGOR\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.csproj.AssemblyReference.cache
+E:\DOCUMENTS\IGOR\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOCUMENTS\IGOR\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.AssemblyInfoInputs.cache
+E:\DOCUMENTS\IGOR\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.AssemblyInfo.cs
+E:\DOCUMENTS\IGOR\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.csproj.CoreCompileInputs.cache
+E:\DOCUMENTS\IGOR\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.dll
+E:\DOCUMENTS\IGOR\aggregates-main\Aggregates\obj\Debug\net6.0\refint\Aggregates.dll
+E:\DOCUMENTS\IGOR\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.pdb
+E:\DOCUMENTS\IGOR\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.genruntimeconfig.cache
+E:\DOCUMENTS\IGOR\aggregates-main\Aggregates\obj\Debug\net6.0\ref\Aggregates.dll
